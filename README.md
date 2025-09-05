@@ -17,19 +17,19 @@ I specialize in building **scalable systems**, with a focus on **fintech platfor
 ## 🛠️ Tech Stack  
 
 
-### Languages & Frameworks  
+### 💻 Languages & Frameworks  
 - **Java** (Spring Boot)  
 - **Python** (FastAPI, Flask)  
 - **TypeScript** (React.js) 
 
 
-### Cloud & DevOps  
+### ☁️ Cloud & DevOps  
 - **Kubernetes**, **Docker**, **Terraform**  
 - CI/CD with **Flux CD**, **GitHub Actions**, **GitLab CI**  
 - Multi-cloud deployments: **GCP**, **Azure**, **AWS**,
 
 
-### AI / Machine Learning  
+### 🤖 AI / Machine Learning  
 - **TensorFlow**, **TensorFlow Extended**, **PyTorch**  
 - Audio processing: **Librosa**, **Madmom**, **Music21**  
 - **NLP**, **Speech Recognition**, **Machine Translation**  
