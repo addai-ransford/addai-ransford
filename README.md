@@ -64,6 +64,6 @@ While most of my work resides in **private repositories** (primarily enterprise 
 
 ## 📫 Let’s Connect  
 
-- 📧 Email: **addai.ransford110@gmail.com**  
+- 📧 [Email](addai.ransford110@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ransford-addai-3ab89882/)  
 
